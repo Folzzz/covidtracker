@@ -1,0 +1,13 @@
+.container {
+    margin: 2rem 0;
+}
+
+.infected {
+    border-bottom: 10px solid rgba(0, 0, 255, 0.4);
+}
+.deaths {
+    border-bottom: 10px solid rgba(255, 0, 0, 0.4);
+}
+.recovered {
+    border-bottom: 10px solid rgba(0, 255, 0, 0.4);
+}
